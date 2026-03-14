@@ -1,0 +1,120 @@
+index.html
+<!<!DOCTYPE html>
+<html>
+<head>
+<title>Green Neighbour Initiative</title>
+</head>
+
+<body style="font-family:Arial; background-color:#e8f5e9; color:#2e7d32;">
+
+<header style="background-color:#2e7d32; color:white; text-align:center;">
+<h1>Green Neighbour Initiative</h1>
+<p>Promoting a cleaner and greener community</p>
+</header>
+
+<nav style="text-align:center; background-color:#a5d6a7;">
+<a href="#home">Home</a> |
+<a href="#report">Report Waste</a> |
+<a href="#agency">Waste Agency</a> |
+<a href="#tips">Eco Tips</a> |
+<a href="#join">Join Us</a> |
+<a href="#contact">Contact</a>
+</nav>
+
+<section id="home">
+<h2>Welcome</h2>
+<p>
+Green Neighbour Initiative is a sustainability project created to help 
+communities maintain a clean and healthy environment. Our platform allows 
+residents to report environmental issues such as illegal dumping, plastic 
+pollution and blocked drainage so that action can be taken quickly.
+</p>
+</section>
+
+<section id="report">
+<h2>Report Environmental Issues</h2>
+<p>Help keep your community clean by reporting environmental problems.</p>
+
+<form>
+Name:<br>
+<input type="text"><br><br>
+
+Location:<br>
+<input type="text"><br><br>
+
+Type of Issue:<br>
+<select>
+<option>Illegal Dumping</option>
+<option>Plastic Pollution</option>
+<option>Blocked Drainage</option>
+<option>Waste Burning</option>
+</select><br><br>
+
+Description:<br>
+<textarea rows="4" cols="30"></textarea><br><br>
+
+<input type="submit" value="Submit Report">
+</form>
+</section>
+
+<section id="agency">
+<h2>Report to Local Waste Management Agency</h2>
+
+<p>
+Users can also notify the local waste management agency so that the problem 
+can be handled by the appropriate authorities.
+</p>
+
+<form>
+Your Name:<br>
+<input type="text"><br><br>
+
+Area / Community:<br>
+<input type="text"><br><br>
+
+Waste Problem:<br>
+<textarea rows="4" cols="30"></textarea><br><br>
+
+Waste Management Agency:<br>
+<select>
+<option>City Waste Management</option>
+<option>Environmental Sanitation Department</option>
+<option>Local Government Waste Authority</option>
+</select><br><br>
+
+<input type="submit" value="Send Report to Agency">
+</form>
+</section>
+
+<section id="tips">
+<h2>Eco Tips for a Greener Environment</h2>
+<ul>
+<li>Reduce the use of plastic bags</li>
+<li>Recycle bottles and containers</li>
+<li>Dispose waste properly</li>
+<li>Avoid burning waste</li>
+<li>Participate in community cleanups</li>
+</ul>
+</section>
+
+<section id="join">
+<h2>Join the Green Neighbour Community</h2>
+<p>
+Become part of the movement to create a cleaner environment.
+You can volunteer for cleanup programs, tree planting activities,
+and environmental awareness campaigns.
+</p>
+</section>
+
+<section id="contact">
+<h2>Contact Us</h2>
+<p>Email: greenneighbour@email.com</p>
+<p>Phone: +234 000 000 000</p>
+</section>
+
+<footer style="background-color:#2e7d32; color:white; text-align:center;">
+<p>© 2026 Green Neighbour Initiative | Sustainability Project</p>
+</footer>
+
+</body>
+</html>
